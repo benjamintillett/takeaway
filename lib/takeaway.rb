@@ -13,5 +13,6 @@ class Takeaway
 
 	def remove_dish!(dish)
 		dishes.delete(dish)
+		self
 	end
 end
