@@ -19,5 +19,8 @@ class Order
 		self
 	end
 
+	def total_cost
+		dishes.inject(0){ |total,dish| total + dish.price    }
+	end
 
 end
