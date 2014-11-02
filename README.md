@@ -72,7 +72,7 @@ irb>  messenger = Messenger.new("Your twillio sid","Your twillio auth token")
 Once youve created an order send a text to a phone
 
 ```ruby
-irb>  m.send_text('a valid twillio phone number','Your phonenumber',your order)
+irb>  messenger.send_text('a valid twillio phone number','Your phonenumber',your order)
 ```
 
 
