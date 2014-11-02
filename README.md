@@ -1,4 +1,4 @@
-FRIDAY CHALLENGE 4 - Part 2 - AIRPORTS
+FRIDAY CHALLENGE 4 - Part 2 - TAKEAWAY
 ======================================
 
 @ Makers Academy
@@ -20,7 +20,7 @@ Skills learnt/used
 How to use
 ----------
 
-The takeway takes orders and send vis text via the twllio API.
+The takeway takes orders and send them by text via the twllio API.
 
 
 Clone the repository:
